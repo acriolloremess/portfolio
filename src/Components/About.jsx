@@ -31,11 +31,11 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
+  "Critical Thinker",
+  "Problem Solver",
   "Inclusive design",
   "Focus group testing",
-  "Mobile user interfaces",
+  "Outside thinking",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I enjoy trying new things and";
+  "I enjoy trying new things and learning";
 
 const About = () => {
   return (
